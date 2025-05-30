@@ -14,6 +14,7 @@ If x is equal to y, print "X is equal to Y".
 If x is not equal to y, print "X is NOT equal to Y".
 
 ## Program
+```
 #include <stdio.h>
 int main() {
     int x, y;
@@ -26,6 +27,7 @@ int main() {
     }
     return 0;
 }
+```
 
 ## Output
 User Input:
